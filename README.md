@@ -19,8 +19,24 @@ QQ群: 142050808    88718955
 
 有偿技术支持,二次开发等业务承接
 
+<img src="http://yun.gitwms.com/Weixin.jpg" width="350" height="500" alt=""/>
+<img src="http://yun.gitwms.com/Alipay.jpg" width="350" height="500" alt=""/>
+### 项目演示地址
 
-吉特仓储管理系统
+
+基础版本
+
+http://www.gitwms.com/
+
+
+云服务版本
+
+http://yun.gitwms.com/
+
+更多案例请联系我
+
+
+### 吉特仓储管理系统
 
 主要包含功能如下:
 
